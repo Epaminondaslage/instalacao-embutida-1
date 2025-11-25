@@ -20,21 +20,21 @@ Ao final desta atividade, o aluno será capaz de:
 
 ---
 
-## 1️. Desenho Simbólico em Planta Baixa
+### 1️. Desenho Simbólico em Planta Baixa
 
-### ✔ Atividade 1
+**Atividade 1**
 
 No início da aula, os alunos deverão produzir o **desenho simbólico** dos eletrodutos, caixas e pontos elétricos.
 
 O desenho deve considerar:
 
-- 📍 Parede de fundo  
-- 📍 Parede esquerda  
-- 📍 Parede direita  
-- 📍 Teto do Box  
-- 📍 Origem da alimentação: **QDLF – Quadro Didático de Luz e Força**
+-  Parede de fundo  
+-  Parede esquerda  
+-  Parede direita  
+-  Teto do Box  
+-  Origem da alimentação: **QDLF – Quadro Didático de Luz e Força**
 
-### ✔ O que deve aparecer no desenho
+**O que deve aparecer no desenho**
 
 - Traçado dos eletrodutos (linhas contínuas ou tracejadas).  
 - Localização das caixas de passagem, interruptores e tomadas.  
@@ -45,11 +45,11 @@ O desenho deve considerar:
 
 ---
 
-## 2. Diagrama Unifilar – Planta Baixa
+### 2. Diagrama Unifilar – Planta Baixa
 
 Nesta etapa, os alunos irão representar na planta baixa o **diagrama unifilar** indicando o caminho da alimentação, dispositivos de proteção e pontos de consumo.
 
-### ✔ Instalação na **parede de fundo**
+**Instalação na parede de fundo**
 
 - 01 **DTMG monopolar** (no QDLF)  
 - 01 **arandela** com lâmpada LED de 7 W  
@@ -57,12 +57,12 @@ Nesta etapa, os alunos irão representar na planta baixa o **diagrama unifilar**
   - a arandela  
   - 02 lâmpadas LED de 7 W instaladas no teto
 
-### ✔ Instalação na **parede esquerda**
+**Instalação na parede esquerda**
 
 - 01 **interruptor paralelo** para comandar a mesma arandela e as duas lâmpadas do teto  
   (formando um **circuito de três pontos** com os demais interruptores)
 
-### ✔ Instalação na **parede direita**
+**Instalação na parede direita**
 
 - 01 **interruptor intermediário**, completando o circuito  
 - 01 **TUG baixa** de 100 VA
@@ -75,17 +75,17 @@ Nesta etapa, os alunos irão representar na planta baixa o **diagrama unifilar**
 
 ---
 
-## 3️. Execução da Instalação no Box Didático
+##$ 3️. Execução da Instalação no Box Didático
 
 Nesta etapa, os alunos irão realizar fisicamente toda a instalação elétrica, baseando-se no desenho e no diagrama unifilar produzidos.
 
-### ✔ Passo a Passo da Execução
+#### Passo a Passo da Execução
 
-### a) Lançamento dos condutores
+**a) Lançamento dos condutores**
 - Utilizar a sonda para puxar os fios pelos eletrodutos previamente instalados.  
 - Respeitar o código de cores adotado pelo laboratório para fase, neutro e retorno.
 
-### b) Emendas e conexões
+**b) Emendas e conexões**
 Realizar as conexões:
 
 - Nas bases das lâmpadas do teto  
@@ -95,26 +95,26 @@ Realizar as conexões:
 
 Garantir que todas as emendas estejam firmes e conforme normas de segurança.
 
-### c) Verificação e energização
+**c) Verificação e energização**
 - Solicitar ao professor inspeção da instalação.  
 - Após aprovação, isolar todas as emendas com fita isolante ou conectores apropriados.  
 - Acionar o **DTMG** para energizar o circuito.  
 - Testar o funcionamento dos pontos de luz e da tomada.
 
-### d) Desinstalação dos dispositivos
+**d) Desinstalação dos dispositivos**
 Após o teste:
 
 - Remover bases de lâmpadas, interruptores e tomadas.  
 - Cortar os condutores **sem retirar dos conectores**, evitando perda de parafusos.
 
-### e) Retirada da fiação
+**e) Retirada da fiação**
 - Remover todos os condutores dos eletrodutos.  
 - Organizar a fiação e entregá-la ao professor.
 
-### f) Organização da sonda
+**f) Organização da sonda**
 - Guardar a sonda ou passa-fio adequadamente.
 
-### g) Limpeza da área de trabalho
+**g) Limpeza da área de trabalho**
 - Recolher resíduos, organizar ferramentas e deixar o Box pronto para a próxima turma.
 
 ---
