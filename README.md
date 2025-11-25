@@ -124,7 +124,7 @@ Nesta etapa, os alunos irão representar na planta baixa o **diagrama unifilar**
 
 ---
 
-##$ 3️. Execução da Instalação no Box Didático
+### 3️. Execução da Instalação no Box Didático
 
 Nesta etapa, os alunos irão realizar fisicamente toda a instalação elétrica, baseando-se no desenho e no diagrama unifilar produzidos.
 
