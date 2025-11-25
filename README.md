@@ -18,7 +18,72 @@ Ao final desta atividade, o aluno será capaz de:
 - Executar passo a passo uma instalação elétrica completa no Box didático.  
 - Realizar testes, desmontagem, organização e limpeza ao término da atividade.
 
----
+## Introdução
+
+**Box Didático – Estrutura, Componentes e Organização**
+
+O **Box Didático** é um ambiente controlado e seguro destinado ao treinamento prático de instalações elétricas prediais. Ele simula um cômodo real, permitindo ao aluno exercitar desde a leitura de diagramas até a execução completa da instalação elétrica.
+
+
+**Estrutura Física do Box**
+
+Cada Box é composto por quatro superfícies principais:
+
+**1. Parede de Fundo**
+
+- Geralmente é a parede onde fica instalado o **QDLF – Quadro Didático de Luz e Força**, contendo o disjuntor (DTMG) de alimentação.  
+- É o ponto de partida de toda a instalação.  
+- Recebe também:  
+  - uma **arandela** (luminária de parede);  
+  - **eletrodutos** saindo do QDLF em direção às outras paredes e ao teto;  
+  - **caixas de passagem** conforme solicitado no projeto.
+
+
+**2. Parede Esquerda**
+
+Responsável por receber um **interruptor paralelo**, que participa do comando do conjunto de luminárias (arandela + lâmpadas do teto).
+
+Contém:
+
+- eletroduto horizontal vindo da parede de fundo;  
+- caixa de interruptor na altura padronizada (aprox. 1,20 m);  
+- possíveis caixas de passagem conforme o trajeto dos condutores.
+
+
+**3. Parede Direita**
+
+Utilizada para instalar:
+
+- 01 **interruptor intermediário**, completando o circuito de três pontos;  
+- 01 **TUG (Tomada de Uso Geral) baixa**, 100 VA, geralmente instalada a 30 cm do piso.
+
+Também recebe:
+
+- eletroduto vindo da parede de fundo ou teto;  
+- caixa de passagem se necessário.
+
+
+**4. Teto do Box**
+
+Simula a laje de um ambiente residencial.
+
+No teto ficam instaladas:
+
+- 02 **lâmpadas LED de 7 W** em bases simples;  
+- eletrodutos de interligação entre as bases;  
+- derivação para a arandela (quando previsto pelo aluno).
+
+**Componentes Elétricos do Box Didático**
+
+O QDLF – Quadro Didático de Luz e Força é o Ponto de alimentação do Box.
+
+Contém:
+
+- 1 **disjuntor DTMG monopolar** (proteção do circuito);  
+- entrada de energia **127 V monofásica**;  
+- borne ou terminais para distribuição.
+
+## Parte Prática 
 
 ### 1️. Desenho Simbólico em Planta Baixa
 
@@ -67,7 +132,7 @@ Nesta etapa, os alunos irão representar na planta baixa o **diagrama unifilar**
 - 01 **interruptor intermediário**, completando o circuito  
 - 01 **TUG baixa** de 100 VA
 
-### ⚡ Características da alimentação elétrica
+**Características da alimentação elétrica**
 
 - Sistema monofásico  
 - Tensão: **127 V**  
