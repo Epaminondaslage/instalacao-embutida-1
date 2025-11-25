@@ -31,22 +31,20 @@ Cada Box é composto por quatro superfícies principais:
 
 **1. Parede de Fundo**
 
-- Geralmente é a parede onde fica instalado o **QDLF – Quadro Didático de Luz e Força**, contendo o disjuntor (DTMG) de alimentação.  
+- Geralmente é a parede onde fica instalado o **QDLF – Quadro Didático de Luz e Força**, local para instalação do disjuntor de alimentação.  
 - É o ponto de partida de toda a instalação.  
 - Recebe também:  
-  - uma **arandela** (luminária de parede);  
   - **eletrodutos** saindo do QDLF em direção às outras paredes e ao teto;  
-  - **caixas de passagem** conforme solicitado no projeto.
+  - **caixas de passagem** conforme solicitado em cada aula.
 
 
 **2. Parede Esquerda**
 
-Responsável por receber um **interruptor paralelo**, que participa do comando do conjunto de luminárias (arandela + lâmpadas do teto).
-
+Responsável por receber dispositivos de acionamentos de cargas e tomadas, q
 Contém:
 
 - eletroduto horizontal vindo da parede de fundo;  
-- caixa de interruptor na altura padronizada (aprox. 1,20 m);  
+- caixa de interruptor na altura padronizada (aprox. 1,20 m e 030m do piso);  
 - possíveis caixas de passagem conforme o trajeto dos condutores.
 
 
@@ -54,13 +52,10 @@ Contém:
 
 Utilizada para instalar:
 
-- 01 **interruptor intermediário**, completando o circuito de três pontos;  
-- 01 **TUG (Tomada de Uso Geral) baixa**, 100 VA, geralmente instalada a 30 cm do piso.
-
-Também recebe:
+Recebe:
 
 - eletroduto vindo da parede de fundo ou teto;  
-- caixa de passagem se necessário.
+- caixas de passagem .
 
 
 **4. Teto do Box**
@@ -69,19 +64,8 @@ Simula a laje de um ambiente residencial.
 
 No teto ficam instaladas:
 
-- 02 **lâmpadas LED de 7 W** em bases simples;  
 - eletrodutos de interligação entre as bases;  
 - derivação para a arandela (quando previsto pelo aluno).
-
-**Componentes Elétricos do Box Didático**
-
-O QDLF – Quadro Didático de Luz e Força é o Ponto de alimentação do Box.
-
-Contém:
-
-- 1 **disjuntor DTMG monopolar** (proteção do circuito);  
-- entrada de energia **127 V monofásica**;  
-- borne ou terminais para distribuição.
 
 ## Parte Prática 
 
@@ -97,7 +81,7 @@ O desenho deve considerar:
 -  Parede esquerda  
 -  Parede direita  
 -  Teto do Box  
--  Origem da alimentação: **QDLF – Quadro Didático de Luz e Força**
+-  Origem da alimentação: **QDG**
 
 **O que deve aparecer no desenho**
 
