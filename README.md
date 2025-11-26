@@ -24,7 +24,7 @@ Ao final desta atividade, o aluno será capaz de:
 
 O **Box Didático** é um ambiente controlado e seguro destinado ao treinamento prático de instalações elétricas prediais. Ele simula um cômodo real, permitindo ao aluno exercitar desde a leitura de diagramas até a execução completa da instalação elétrica.
 
-<img src="img/box_geral.jpg" alt="box" width="50%">
+<img src="img/box_geral.jpg" alt="box" width="60%">
 
 **Estrutura Física do Box**
 
