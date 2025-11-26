@@ -24,6 +24,7 @@ Ao final desta atividade, o aluno será capaz de:
 
 O **Box Didático** é um ambiente controlado e seguro destinado ao treinamento prático de instalações elétricas prediais. Ele simula um cômodo real, permitindo ao aluno exercitar desde a leitura de diagramas até a execução completa da instalação elétrica.
 
+<img src="img/box_geral.jpg" alt="box" width="60%">
 
 **Estrutura Física do Box**
 
@@ -36,7 +37,8 @@ Cada Box é composto por quatro superfícies principais:
 - Recebe também:  
   - **eletrodutos** saindo do QDLF em direção às outras paredes e ao teto;  
   - **caixas de passagem** conforme solicitado em cada aula.
-
+    
+<img src="img/box1.jpg" alt="box" width="50%">
 
 **2. Parede Esquerda**
 
@@ -47,6 +49,7 @@ Contém:
 - caixa de interruptor na altura padronizada (aprox. 1,20 m e 030m do piso);  
 - possíveis caixas de passagem conforme o trajeto dos condutores.
 
+<img src="img/box-esq.jpg" alt="box" width="50%">
 
 **3. Parede Direita**
 
@@ -57,6 +60,7 @@ Recebe:
 - eletroduto vindo da parede de fundo ou teto;  
 - caixas de passagem .
 
+<img src="img/box-dir.jpg" alt="box" width="50%">
 
 **4. Teto do Box**
 
@@ -66,6 +70,8 @@ No teto ficam instaladas:
 
 - eletrodutos de interligação entre as bases;  
 - derivação para a arandela (quando previsto pelo aluno).
+- 
+<img src="img/box-teto.jpg" alt="box" width="50%">
 
 ## Parte Prática 
 
