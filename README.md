@@ -70,7 +70,7 @@ No teto ficam instaladas:
 
 - eletrodutos de interligação entre as bases;  
 - derivação para a arandela (quando previsto pelo aluno).
-- 
+
 <img src="img/box-teto.jpg" alt="box" width="50%">
 
 ## Parte Prática 
@@ -95,6 +95,8 @@ O desenho deve considerar:
 - Localização das caixas de passagem, interruptores e tomadas.  
 - Posição das luminárias no teto.  
 - Referência à altura padrão conforme prática de laboratório.
+
+<img src="img/box.jpg" alt="box" width="50%">
 
 > Este desenho servirá como base para a construção do **diagrama unifilar** e posteriormente para a execução prática da instalação.
 
